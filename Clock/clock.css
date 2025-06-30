@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.Clock {
+    position: absolute;
+    color: lime;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family: Orbitron;
+    /*字形*/
+    letter-spacing: 7px;
+    /*字之間的空隙*/
+}
