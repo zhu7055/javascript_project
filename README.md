@@ -9,3 +9,4 @@ https://olympus.mygreatlearning.com/courses/47896
 * **中文註解**
 * **css修改**
 * **text box樣式修改**
+* **Javascript 修改**
